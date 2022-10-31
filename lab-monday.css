@@ -1,0 +1,45 @@
+
+.header {
+   position: relative;
+   text-align: center;
+   background-image: url("https://www.genesiscareer.edu/wp-content/uploads/2014/09/banner-hvac-tech.jpg");
+   background-position: stretch;
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 500px;
+   z-index: 0;
+}
+
+.top-left {
+    padding-top: 50px;
+    font-family: "copperplate", fantasy;
+    font-size: 21vh;
+    color: rgb(243, 243, 247);
+    z-index: 1;
+}
+.center-left {
+    bottom: 100px;
+    left: 16px;
+    z-index: 1;
+    font-size: 4vh;
+    font-family: "copperplate", fantasy;
+}
+
+.li {
+    display: inline;
+    padding: 0px 40px 0px 10px;
+    font-size: 40;
+    line-height: 26;
+}
+
+
+
+
+
+
+text-align: center;
+font-family: "copperplate", fantasy;
+font-size: 4vh;
+background-position: center;
+background-repeat: no-repeat;
+background
